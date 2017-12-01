@@ -1,0 +1,30 @@
+{
+	"variable":{
+		"speed":5,
+		"scene":0,
+		"score":0,
+		"highscore":0,
+		"Scale":0.8,
+		"obstacleNum":0,
+		"call_read_pattern":0},
+	"wall":{
+		"1":{
+			"x":400,
+			"y":75},
+		"2":{
+			"x":400,
+			"y":575},
+		"color":{
+			"R":18,
+			"G":105,
+			"B":120}
+		},
+	"background":{
+		"x":400,
+		"y":300,
+		"color":{
+			"R":72,
+			"G":202,
+			"B":225}
+		}
+}
